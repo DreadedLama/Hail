@@ -31,7 +31,7 @@
     <uses-permission android:name="com.oasisfeng.island.permission.SUSPEND_PACKAGE"/>
 
     <application
-            android:name=".HailApp"
+            android:name=".HideMyApps"
             android:allowBackup="true"
             android:enableOnBackInvokedCallback="true"
             android:icon="@mipmap/ic_launcher"

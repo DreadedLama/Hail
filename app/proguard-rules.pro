@@ -20,4 +20,4 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keep public class com.dreadedlama.hail.xposed.XposedInterface
+-keep public class com.dreadedlama.hidemyapps.xposed.XposedInterface

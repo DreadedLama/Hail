@@ -36,7 +36,7 @@
                 android:ellipsize="end"
                 android:maxLines="2"
                 android:textAppearance="@style/TextAppearance.Material3.BodySmall"
-                tools:text="com.dreadedlama.hail"/>
+                tools:text="com.dreadedlama.hidemyapps"/>
     </LinearLayout>
 
     <com.google.android.material.checkbox.MaterialCheckBox

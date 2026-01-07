@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven("https://api.xposed.info/")
     }
 }
-rootProject.name = "Hail"
+rootProject.name = "HideMyApps"
 include(":app")

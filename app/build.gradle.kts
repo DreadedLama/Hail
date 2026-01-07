@@ -15,11 +15,11 @@ android {
         commandLine = "git log -1 --pretty=%s".split(" ")
     }.standardOutput.asText.get().trim()
 
-    namespace = "com.dreadedlama.hail"
+    namespace = "com.dreadedlama.hidemyapps"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.dreadedlama.hail"
+        applicationId = "com.dreadedlama.hidemyapps"
         minSdk = 23
         targetSdk = 36
         versionCode = 34
@@ -52,7 +52,7 @@ android {
     applicationVariants.configureEach {
         outputs.configureEach {
             (this as? com.android.build.gradle.internal.api.ApkVariantOutputImpl)?.outputFileName =
-                "Hail-v$versionName.apk"
+                "HideMyApps-v$versionName.apk"
         }
     }
     java {
