@@ -19,7 +19,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.dreadedlama.hail"
+        applicationId = "com.aistra.hail"
         minSdk = 23
         targetSdk = 36
         versionCode = 34
