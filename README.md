@@ -76,7 +76,7 @@ adb shell dpm set-device-owner com.aistra.hail/.receiver.DeviceAdminReceiver
 设置成功后会输出以下信息：
 
 ```
-Success: Device owner set to package com.aistra.hail
+Success: Device owner set to package com.dreadedlama.hail
 Active admin set to component {com.aistra.hail/com.aistra.hail.receiver.DeviceAdminReceiver}
 ```
 

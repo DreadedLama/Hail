@@ -80,7 +80,7 @@ adb shell dpm set-device-owner com.aistra.hail/.receiver.DeviceAdminReceiver
 デバイス所有者が正常に設定された場合、adbは次のメッセージを出力します：
 
 ```
-Success: Device owner set to package com.aistra.hail
+Success: Device owner set to package com.dreadedlama.hail
 Active admin set to component {com.aistra.hail/com.aistra.hail.receiver.DeviceAdminReceiver}
 ```
 
